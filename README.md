@@ -11,6 +11,7 @@ Analysis:
 
 
 Visualizations:
+
 1️⃣ Interactive Dashboard: Built a user-friendly dashboard with filters, slicers, and drill-down capabilities to explore hospital data. 📊
 
 3️⃣ Scatter Plot: Used a scatter plot to show the relationship between hospital efficiency and patient outcomes, identifying trends and correlations. 📈
