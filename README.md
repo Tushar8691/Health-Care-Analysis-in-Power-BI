@@ -8,10 +8,14 @@ Analysis:
 4.	Doctor Feedback: Review doctor feedback data to identify areas for improvement in doctor performance, patient satisfaction, and overall quality of care.
 5.	Diagnosis Statistics: Analyze diagnosis-wise statistics to identify common medical conditions, treatment patterns, and potential areas for improving patient outcomes.
 6.	Billing vs Insurance Statistics: Compare billing and insurance data to identify discrepancies.
-#Visualizations:
+
+
+Visualizations:
 1️⃣ Interactive Dashboard: Built a user-friendly dashboard with filters, slicers, and drill-down capabilities to explore hospital data. 📊
 3️⃣ Scatter Plot: Used a scatter plot to show the relationship between hospital efficiency and patient outcomes, identifying trends and correlations. 📈
 4️⃣ Bar Chart: Designed a bar chart to compare hospital performance across different regions, highlighting regional differences and opportunities for improvement. 🗺️
-#Conclusion:
+
+
+Conclusion:
 By analyzing real-world healthcare data and creating interactive visualizations, we can gain valuable insights into hospital efficiency and performance. The HealthStat dashboard provides a powerful tool for healthcare professionals to identify areas for improvement, optimize resources, and enhance patient outcomes. 🏥💻
 
