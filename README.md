@@ -1,6 +1,6 @@
 #  Forotis_Hospital_Health-Care-Analysis-in-Power-BI
 #Objective: Analyze hospital data, measure efficiency, and create interactive visualizations to identify performance  and improve healthcare services. 📊
-Dataset: Real-world healthcare data (e.g., patient outcomes, hospital resources, and financials) 📁
+
 Analysis:
 1.	Patient Information: Analyze patient data such as age, gender, blood type, medical condition, admission date, doctor, hospital, insurance provider, billing amount, room number, admission type, discharge date, medication, and test results. This can help answer questions like the most frequent medical condition, highest medical condition, admission state and age, and medical trends over time.
 2.	Billing Information: Examine the billing amount and insurance provider data to gain insights into hospital revenue, insurance coverage, and potential billing issues.
